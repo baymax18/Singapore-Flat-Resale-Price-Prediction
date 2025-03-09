@@ -148,7 +148,7 @@ with col1:
     e1 = st.text_input("Flat Model Encoded", placeholder="Please refer to Flat Model to Numeric Code Mapping table in Encoding Details Tab")
 
     
-    with open(r"F:/singapore/regression_model.pkl", 'rb') as file_1:
+    with open(r"https://github.com/baymax18/Singapore-Flat-Resale-Price-Prediction/blob/f6a442befd4745178c38f94e32f6dd62731959a9/regression_model.pkl", 'rb') as file_1:
         regression_model = pickle.load(file_1)
 
     
