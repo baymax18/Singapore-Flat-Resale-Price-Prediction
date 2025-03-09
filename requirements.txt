@@ -3,5 +3,5 @@ pandas
 streamlit
 seaborn
 matplotlib
-pickle
 sklearn
+pickle
