@@ -147,7 +147,7 @@ with tab2:
         e1 = flat_model_map[e1]
 
         
-        with open(r"F:/singapore/regression_model.pkl", 'rb') as file_1:
+        with open(r"regression_model.pkl", 'rb') as file_1:
             regression_model = pickle.load(file_1)
 
         
