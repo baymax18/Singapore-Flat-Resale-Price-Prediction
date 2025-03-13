@@ -11,12 +11,12 @@ def format_singapore_money(amount):
 
 
 st.set_page_config(
-    page_title="Singapoe Flat reslae price prediction",
+    page_title="Singapore Flat reslae price prediction",
     page_icon="🏠",
     layout="wide"
 )
 
-st.title (':violet[Singapoe Flat Reslae Price Prediction using Machine Learning Model]')
+st.title (':violet[Singapore Flat Reslae Price Prediction using Machine Learning Model]')
 
 
 tab1, tab2, tab3 = st.tabs(['About', 'Encoding Details','Price Prediction'])
